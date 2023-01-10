@@ -1,0 +1,64 @@
+<html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="./home">home</a>
+    <a href="./food men">food</a>
+    <a href="./grocery">grocery</a>
+    <a href="./about">about</a>
+    <h1 >Our Food Menu</h1>
+ 
+
+
+ <h2>Burgur</h2>
+    <p><ul>
+ <li> Zinger Burgur -------------------- <s>300</s>
+   Rs./240</li>
+   <li>
+    Zinger cheese Burgur ----------- <s>320</s>
+    Rs./280
+   </li> 
+   <li>Chicken Burgur -----------------<s>290</s> Rs./150</li>
+   <li>Chicken cheese burgur --------- <s>220</s>
+    Rs./170
+</li>
+</ul></p>
+<h2>Rice</h2>
+<p>
+    <ul>
+        <li>Aloo Biryani----------------- <s>Rs.100</s>Rs./70 </li>
+        <li>Chicken Biryani----------- <s>Rs.160</s>Rs./120</li>
+        <li>Beef Biryani----------------- <s>Rs.250</s>Rs./200</li> 
+        <li>Mutton Biryani--------------- <s>Rs.290</s>Rs./250 </li>
+    </ul>
+</p>
+
+ <h2>Bar B.Q</h2>
+ <P>
+
+    <ul>
+        <li>Chicken Tikka---------------- <s>Rs.170</s>Rs./150</li>
+        <li>Chicken Boti----------------- <s>Rs.200</s>Rs./160</li>
+        <li>Chicken Malai Boti----------- <s>Rs.270</s>Rs./230</li>
+        <li>Chicken Masala Boti---------- <s>Rs.299</s>Rs./250</li>
+    </ul>
+ </P>
+ <h2>Toppings</h2>
+ <p>
+    <ul>
+        <li>Tomato Ketchup--------------- <s>Rs.80</s>Rs./50</li>
+        <li>Mayonnaise--------------------- <s>Rs.80</s>Rs./50</li>
+        <li>Imli Paste----------------------- <s>Rs.80</s>Rs./50</li>
+        <li>Raita---------------------------- <s>Rs.80</s>Rs./50</li>
+    </ul>
+ </p>
+ 
+</body>
+</html>

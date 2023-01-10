@@ -1,0 +1,30 @@
+<html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="./about">About</a> <br>
+    <a href="./grocery">Grocery</a> <br>
+    <a href="./home">Home</a> <br>
+    <a href="./food men">Foods</a> <br>
+    <h1>Grocery (Kitchen item )</h1>
+    <p>
+        <ul>
+            <li>Silicon Fry pan <s>1500</s>1200</li>
+            <li>Silicon spoon set <s>450</s>299</li>
+            <li>Silicon pot set <s>800</s>600</li>
+            <li>Silicon kettle <s>400</s>320</li>
+            <li>Steel spoon <s>120</s>70</li>
+            <li>Wooden spoon set <s>300</s>240</li>
+            <li>Wooden Plate set <s>540</s>500</li>
+            <li>Wooden bowl set <s>800</s>650</li>
+            <li>Wooden Tray <s>200</s>170</li>
+        </ul>
+    </p>
+
+</body>
+</html>
